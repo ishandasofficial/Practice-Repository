@@ -31,3 +31,4 @@ for i in range(rows):
 print("\nYour 2D Array is:")
 for row in array_2d:
     print(row)
+
