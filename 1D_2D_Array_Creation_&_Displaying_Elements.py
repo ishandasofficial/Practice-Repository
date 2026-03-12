@@ -32,3 +32,5 @@ print("\nYour 2D Array is:")
 for row in array_2d:
     print(row)
 
+print("Thanks for using :)")
+
