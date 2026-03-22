@@ -48,7 +48,7 @@ Small projects (if any)
 
 Clone the repository:
 
-git clone https://github.com/your-username/Practice-Repository.git
+git clone https://github.com/ishandasofficial/Practice-Repository.git
 
 Navigate to the required language folder.
 
